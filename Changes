@@ -1,5 +1,10 @@
 Version 3.979001 (2026-tbd)
 
+  [NEW FEATURES]
+
+  * Add Siemens SIMATIC, SINAMICS, and soft starter device detection and
+    extract model, firmware, and SIMATIC serial details from sysDescr
+
   [BUG FIXES]
 
   * #570 Use attached aggregate indexes for H3C Bridge-Aggregation members

@@ -952,6 +952,11 @@ SUBCLASSES
 
             See documentation in SNMP::Info::Layer3::Scalance for details.
 
+        SNMP::Info::Layer3::Siemens
+            Subclass for Siemens SIMATIC, SINAMICS, and soft starter devices.
+
+            See documentation in SNMP::Info::Layer3::Siemens for details.
+
         SNMP::Info::Layer3::SonicWALL
             Subclass for generic SonicWALL devices.
 

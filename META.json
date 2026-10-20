@@ -573,6 +573,10 @@
          "file" : "lib/SNMP/Info/Layer3/Scalance.pm",
          "version" : "3.979000"
       },
+      "SNMP::Info::Layer3::Siemens" : {
+         "file" : "lib/SNMP/Info/Layer3/Siemens.pm",
+         "version" : "3.979000"
+      },
       "SNMP::Info::Layer3::SilverPeak" : {
          "file" : "lib/SNMP/Info/Layer3/SilverPeak.pm",
          "version" : "3.979000"
